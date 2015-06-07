@@ -95,10 +95,43 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-a {
-  display: inline-block;
+.tabs{
+  display: block;
 }
 
+.tabs> a {
+  border: 1px solid #becbd2;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  width: 49%;
+  margin: 0;
+  display: block;
+  float: left;
+  position: relative;
+  padding: 10px 0 10px 0;
+  text-align: center;
+
+  }
+
+
+
+
+
+
+
+
+
+
+/*   display: inline-block;
+text-align: center;
+color: black;
+text-decoration: none;
+width: 49%;
+padding: 10px 0;
+font-size: 14px;
+font-weight: bold;
+border-top: 1px solid lightgrey;
+ */
 
 
 
