@@ -110,10 +110,11 @@ textarea {
   position: relative;
   padding: 10px 0 10px 0;
   text-align: center;
-
   }
 
-
+.tabs> a:last-child {
+  border-left: 0
+}
 
 
 
