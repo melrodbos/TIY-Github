@@ -1,0 +1,22 @@
+{
+  "name": "TIY-Github",
+  "version": "0.0.0",
+  "homepage": "https://github.com/melrodbos/TIY-Github",
+  "authors": [
+    "Melissa Rodríguez <m.rodriguez.bosques@gmail.com>"
+  ],
+  "description": "yak-shaving",
+  "license": "CC0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "lodash": "~3.9.3",
+    "pure": "~0.6.0"
+  }
+}
