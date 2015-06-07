@@ -17,7 +17,7 @@
   "dependencies": {
     "jquery": "~2.1.4",
     "lodash": "~3.9.3",
-    "pure": "~0.6.0"
+    "pure": "~0.6.0",
     "octicons": "*"
   }
 }
