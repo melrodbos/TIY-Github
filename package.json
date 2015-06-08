@@ -3,8 +3,6 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "main": "index.js",
-
   "scripts": {
     "test": "browser-sync start --server --files='src/js/*.js,src/test/index.html,test/spec/**/*.js' --startPath src/test/index.html",
     "start": "browser-sync start --server --files='src/index.html, src/css/*.css, src/js/*.js' --startPath src/index.html"
@@ -18,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/melrodbos/TIY-Github/issues"
   },
-  "homepage": "https://github.com/melrodbos/TIY-Github#readme"
+  "homepage": "https://github.com/melrodbos/TIY-Github#readme",
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
 }
