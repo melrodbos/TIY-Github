@@ -125,30 +125,15 @@ textarea {
 }
 
 .tabs>a.active{
-  color: #444;
+  color: #444444;
   background-color: #ffffff;
   border-top: 2px solid #d26911;
-  border-right: 1px solid #ddd;
+  border-right: 1px solid #dddddd;
   border-bottom-color:#ffffff;
 }
 
 
 
-
-
-
-
-
-/*   display: inline-block;
-text-align: center;
-color: black;
-text-decoration: none;
-width: 49%;
-padding: 10px 0;
-font-size: 14px;
-font-weight: bold;
-border-top: 1px solid lightgrey;
- */
 
 
 
