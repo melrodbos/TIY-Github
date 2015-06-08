@@ -97,23 +97,39 @@ textarea {
 
 .tabs{
   display: block;
+  padding: 0;
 }
 
 .tabs> a {
-  border: 1px solid #becbd2;
   border-top: 1px solid lightgrey;
   border-bottom: 1px solid lightgrey;
   width: 49%;
-  margin: 0;
+  background-color: #fbfbfb;
   display: block;
-  float: left;
-  position: relative;
-  padding: 10px 0 10px 0;
+  float:left;
+  padding: 10px 0;
   text-align: center;
-  }
+  text-decoration: none;
+  color: #4078c0;
+  font-size: 14px;
+  font-weight:bold;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
 
-.tabs> a:last-child {
-  border-left: 0
+.tabs>a:last-child {
+  border-right: 0;
+}
+
+.tabs>a:first-child {
+  border-left: 0;
+}
+
+.tabs>a.active{
+  color: #444;
+  background-color: #ffffff;
+  border-top: 2px solid #d26911;
+  border-right: 1px solid #ddd;
+  border-bottom-color:#fff;
 }
 
 
