@@ -132,7 +132,27 @@ textarea {
   border-bottom-color:#ffffff;
 }
 
+/* Profile */
 
+.profile_container{
+  padding: 15px 15px 10px 140px;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+  line-height: 1.5;
+  min-height: 140px;
+}
+
+.profile_elements{
+  display: inline-block;
+}
+
+.profile_elements h1{
+  font-size: 16px;
+}
+
+.profile_elements h3{
+  font-size: 12px;
+}
 
 
 
