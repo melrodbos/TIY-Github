@@ -16,8 +16,7 @@
   "bugs": {
     "url": "https://github.com/melrodbos/TIY-Github/issues"
   },
-  "homepage": "https://github.com/melrodbos/TIY-Github#readme",
-  "dependencies": {
-    "normalize.css": "^3.0.3"
+  "homepage": "https://github.com/melrodbos/TIY-Github","devDependencies": {
+    "node-sass": "^3.1.2"
   }
 }
