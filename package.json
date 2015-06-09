@@ -1,22 +1,13 @@
 {
-  "name": "Github",
+  "name": "Planet-of-the-APIs",
   "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "browser-sync start --server --files='src/js/*.js,src/test/index.html,test/spec/**/*.js' --startPath src/test/index.html",
-    "start": "browser-sync start --server --files='src/index.html, src/css/*.css, src/js/*.js' --startPath src/index.html"
+    "postinstall": "npm run bower:install",
+    "bower:install": "bower install --save",
+    "postbower:install": "wiredep --src src/index.html"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/melrodbos/TIY-Github.git"
-  },
-  "author": "Melissa Rodriguez <m.rodriguez.bosques@gmail.com>",
-  "license": "CC0",
-  "bugs": {
-    "url": "https://github.com/melrodbos/TIY-Github/issues"
-  },
-  "homepage": "https://github.com/melrodbos/TIY-Github","devDependencies": {
-    "node-sass": "^3.1.2"
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "wiredep": "^2.2.2"
   }
 }
