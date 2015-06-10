@@ -1,0 +1,35 @@
+.grid {
+  $grid-width: 100%;
+  max-width: 80%;
+
+  @extend .clearfix;
+
+  width: ($grid-width);
+  margin: 0 auto; /* to center the elements */
+
+
+  background-color: lightgrey;
+  outline: 2px solid red;
+
+  }
+
+  .unit {
+    background-color: gray;
+    outline: 2px solid blue;
+
+    float: left;
+    width: ($grid-width/8);
+    padding-left: 1em;
+    padding-right: 1em;
+
+  }
+
+  .unit-span-2 {
+    @extend .unit;
+
+    width: ($grid-width/8) * 2;
+  }
+  .unit-span-4 {
+    @extend .unit;
+    width: ($grid-width/8) * 4;
+  }
