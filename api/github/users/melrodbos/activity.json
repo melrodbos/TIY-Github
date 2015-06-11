@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "2882014242",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 691634193,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/develop",
+      "head": "b039b902b00dbc163fcfb86727b1ca4ded9c421c",
+      "before": "2319187703c85685cc321f3659174b6d22582c15",
+      "commits": [
+        {
+          "sha": "b039b902b00dbc163fcfb86727b1ca4ded9c421c",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Transferring starred",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/b039b902b00dbc163fcfb86727b1ca4ded9c421c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-11T00:25:53Z"
+  },
+  {
+    "id": "2882011951",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 691633709,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/develop",
+      "head": "2319187703c85685cc321f3659174b6d22582c15",
+      "before": "508614c0ffdb887f9700966b75d664ae0dba86c8",
+      "commits": [
+        {
+          "sha": "2319187703c85685cc321f3659174b6d22582c15",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Transferring info between branches.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/2319187703c85685cc321f3659174b6d22582c15"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-11T00:25:02Z"
+  },
+  {
+    "id": "2881142963",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 691330317,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/develop",
+      "head": "508614c0ffdb887f9700966b75d664ae0dba86c8",
+      "before": "dcc87ad0ed97856ca88706bf0d01c5f06bf65620",
+      "commits": [
+        {
+          "sha": "508614c0ffdb887f9700966b75d664ae0dba86c8",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "syntax error correction",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/508614c0ffdb887f9700966b75d664ae0dba86c8"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T19:10:48Z"
+  },
+  {
+    "id": "2880933212",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 34401403,
+      "name": "TheIronYard--Orlando/2015--SUMMER--FEE",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/269",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/269/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/269/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/269/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/2015--SUMMER--FEE/issues/269",
+        "id": 87055792,
+        "number": 269,
+        "title": "24 -- Return to the Planet of the APIs -- Melissa Rodriguez",
+        "user": {
+          "login": "melrodbos",
+          "id": 12171924,
+          "avatar_url": "https://avatars.githubusercontent.com/u/12171924?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/melrodbos",
+          "html_url": "https://github.com/melrodbos",
+          "followers_url": "https://api.github.com/users/melrodbos/followers",
+          "following_url": "https://api.github.com/users/melrodbos/following{/other_user}",
+          "gists_url": "https://api.github.com/users/melrodbos/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/melrodbos/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/melrodbos/subscriptions",
+          "organizations_url": "https://api.github.com/users/melrodbos/orgs",
+          "repos_url": "https://api.github.com/users/melrodbos/repos",
+          "events_url": "https://api.github.com/users/melrodbos/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/melrodbos/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-06-10T18:07:21Z",
+        "updated_at": "2015-06-10T18:07:21Z",
+        "closed_at": null,
+        "body": "* [ ] **Yak Shaving**\r\n  * _WIP Issue_: `24 -- Return to the Planet of the APIs -- YOUR NAME`\r\n  *  _WIP Branch_:\r\n    * `USERNAME.github.io:journal-week-5`\r\n    * `TIY-Github`\r\n      * `develop`\r\n      * `feature/*`\r\n  * _WIP Files_:\r\n    * `USERNAME.github.io`\r\n      * reflective journal\r\n      * tutorial journal\r\n      * bookmark journal\r\n    * `TIY-Github`\r\n      * `src/`\r\n        * `index.html`\r\n        * **`scss/main.scss`**\r\n        * **`scss/*.scss`**\r\n        * **`css/.gitignore`**\r\n        * **`js/main.js`**\r\n* [ ] **Journal, Week 5**\r\n  * [ ] reflective journal, final draft\r\n  * [ ] tutorial journal, final draft\r\n  * [ ] bookmark journal, final draft\r\n* [ ] **Reading APIs**\r\n  * How can I use the Github API to...\r\n    * get all the comments for a particular issue?\r\n    * add a comment to an issue?\r\n  * How can I use the jQuery API to...\r\n    * get the HTML contents of an element?\r\n    * create a _new_ HTML element?\r\n    * add an HTML element to the page?\r\n  * How can I use the Lodash API to...\r\n    * replace placeholders with values from an object?\r\n    * repeat code for every item of an array?\r\n* [ ] **These grids nowadays...**\r\n  * [ ] **Building up the Base**\r\n    * [ ] Start with a happy little wrapper...\r\n    * [ ] Just a 5-column grid, please...\r\n    * [ ] Check out that offset!\r\n  * [ ] **To the Bat-Desktop, Robin!**\r\n    * [ ] 2/5ths Profile\r\n    * [ ] 3/5ths Repositories\r\n  * [ ] **Holy shrinking viewports, Batman!**\r\n    * [ ] Disappearing Repositories!\r\n    * [ ] Full-width profile!\r\n    * [ ] 2/5ths avatar image!\r\n    * [ ] 3/5ths detail list!\r\n* [ ] **Templatize me, Cap'n!**\r\n  * [ ] `feature/repo-list-placeholders`\r\n    * [ ] Repos got names, yo.\r\n    * [ ] What about a description?\r\n    * [ ] My god, it's full of stars...\r\n  * [ ] `feature/repo-list-template`\r\n    * [ ] Convert to `<template>`!\r\n    * [ ] Can I see your `id`, please?\r\n    * [ ] Eat that `<template>`!\r\n    * [ ] Now spit it back out!\r\n  * [ ] **BEAST MODE**\r\n    * [ ] Fill in that `<template>`...\r\n    * [ ] FOR EVERY REPO. :astounded:"
+      }
+    },
+    "public": true,
+    "created_at": "2015-06-10T18:07:21Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2880888167",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 691240457,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/develop",
+      "head": "dcc87ad0ed97856ca88706bf0d01c5f06bf65620",
+      "before": "6bc5ec93db770e24ca9e9a9881f3f7b02afe4570",
+      "commits": [
+        {
+          "sha": "53404233657ea7fc622a0577810b6d7f11b1c649",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Prepping for sass",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/53404233657ea7fc622a0577810b6d7f11b1c649"
+        },
+        {
+          "sha": "dcc87ad0ed97856ca88706bf0d01c5f06bf65620",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Lecture-grid-sass",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/dcc87ad0ed97856ca88706bf0d01c5f06bf65620"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T17:53:35Z"
+  },
+  {
+    "id": "2880343584",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 691043852,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "7350ec3c2f9fe4993c2c3432eafeb81c9ef362d2",
+      "before": "ea51f20862391ac8cef2ae73f6d9c27a654d779f",
+      "commits": [
+        {
+          "sha": "7350ec3c2f9fe4993c2c3432eafeb81c9ef362d2",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "experimenting",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/7350ec3c2f9fe4993c2c3432eafeb81c9ef362d2"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T15:13:54Z"
+  },
+  {
+    "id": "2879717456",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690806231,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "ea51f20862391ac8cef2ae73f6d9c27a654d779f",
+      "before": "c169b50a6c3b2b30cbbcfd668aa84f1bf5d1d48f",
+      "commits": [
+        {
+          "sha": "ea51f20862391ac8cef2ae73f6d9c27a654d779f",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Update main.js",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/ea51f20862391ac8cef2ae73f6d9c27a654d779f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T12:04:51Z"
+  },
+  {
+    "id": "2878785446",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690451141,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "c169b50a6c3b2b30cbbcfd668aa84f1bf5d1d48f",
+      "before": "718e660f6b7ca113765820c3fd8c8d53a647a416",
+      "commits": [
+        {
+          "sha": "c169b50a6c3b2b30cbbcfd668aa84f1bf5d1d48f",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Create starred.json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/c169b50a6c3b2b30cbbcfd668aa84f1bf5d1d48f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T04:57:32Z"
+  },
+  {
+    "id": "2878763139",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690443002,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "718e660f6b7ca113765820c3fd8c8d53a647a416",
+      "before": "33dafd97b0d5ca11e41206dc44f10fc9123d7edf",
+      "commits": [
+        {
+          "sha": "718e660f6b7ca113765820c3fd8c8d53a647a416",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Create repos.json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/718e660f6b7ca113765820c3fd8c8d53a647a416"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T04:40:42Z"
+  },
+  {
+    "id": "2878761785",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690442482,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "33dafd97b0d5ca11e41206dc44f10fc9123d7edf",
+      "before": "4d72ecf047489b69bdd7ed5d192fa15e95a9d64b",
+      "commits": [
+        {
+          "sha": "33dafd97b0d5ca11e41206dc44f10fc9123d7edf",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Create melrodbos.json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/33dafd97b0d5ca11e41206dc44f10fc9123d7edf"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T04:39:40Z"
+  },
+  {
+    "id": "2878719895",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690427134,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "4d72ecf047489b69bdd7ed5d192fa15e95a9d64b",
+      "before": "b03b84ec0f0fb1e0e3ac1bd7507145656165174c",
+      "commits": [
+        {
+          "sha": "4d72ecf047489b69bdd7ed5d192fa15e95a9d64b",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Create starred.json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/4d72ecf047489b69bdd7ed5d192fa15e95a9d64b"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T04:08:19Z"
+  },
+  {
+    "id": "2878713212",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690424544,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "b03b84ec0f0fb1e0e3ac1bd7507145656165174c",
+      "before": "43a49fdae821eed0482dd273c30686adde47b5f1",
+      "commits": [
+        {
+          "sha": "b03b84ec0f0fb1e0e3ac1bd7507145656165174c",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Create activity.json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/b03b84ec0f0fb1e0e3ac1bd7507145656165174c"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T04:03:20Z"
+  },
+  {
+    "id": "2878699703",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690419442,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "43a49fdae821eed0482dd273c30686adde47b5f1",
+      "before": "323b2b63b9a2365fe563cb982b125b8df138b230",
+      "commits": [
+        {
+          "sha": "43a49fdae821eed0482dd273c30686adde47b5f1",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Replaced old with new...",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/43a49fdae821eed0482dd273c30686adde47b5f1"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T03:53:12Z"
+  },
+  {
+    "id": "2878676292",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690410985,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "323b2b63b9a2365fe563cb982b125b8df138b230",
+      "before": "60e58ba2ed81ff312f93df7cf034fa149f4bd222",
+      "commits": [
+        {
+          "sha": "323b2b63b9a2365fe563cb982b125b8df138b230",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Fetching API data again\n\n- Adding octocat.json file data.\r\nKeep it logically awesome...",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/323b2b63b9a2365fe563cb982b125b8df138b230"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-10T03:35:17Z"
+  },
+  {
+    "id": "2878596401",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 34401403,
+      "name": "TheIronYard--Orlando/2015--SUMMER--FEE",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "id": 86694259,
+        "number": 260,
+        "title": "23 -- Return to the Planet of the APIs -- Melissa Rodriguez",
+        "user": {
+          "login": "melrodbos",
+          "id": 12171924,
+          "avatar_url": "https://avatars.githubusercontent.com/u/12171924?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/melrodbos",
+          "html_url": "https://github.com/melrodbos",
+          "followers_url": "https://api.github.com/users/melrodbos/followers",
+          "following_url": "https://api.github.com/users/melrodbos/following{/other_user}",
+          "gists_url": "https://api.github.com/users/melrodbos/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/melrodbos/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/melrodbos/subscriptions",
+          "organizations_url": "https://api.github.com/users/melrodbos/orgs",
+          "repos_url": "https://api.github.com/users/melrodbos/repos",
+          "events_url": "https://api.github.com/users/melrodbos/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/melrodbos/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 2,
+        "created_at": "2015-06-09T18:42:52Z",
+        "updated_at": "2015-06-10T02:38:26Z",
+        "closed_at": null,
+        "body": "* [x] **Yak Shaving**\r\n  * _WIP Issue_: `23 -- Return to the Planet of the APIs -- YOUR NAME`\r\n    * Link to your PR in `USERNAME.github.io`\r\n    * Link to your PR in `TIY-Github` from `develop` into `master`\r\n  *  _WIP Branch_:\r\n    * `USERNAME.github.io:journal-week-5` from `master`\r\n    * `TIY-Github`\r\n      * `develop` from `master`\r\n      * `feature/*` from `develop`\r\n  * _WIP Files_:\r\n    * `USERNAME.github.io`\r\n      * reflective journal\r\n      * tutorial journal\r\n      * bookmark journal\r\n      * `about/github-api.md`\r\n    * `TIY-Github`\r\n      * `src/index.html`\r\n      * `src/scss/main.scss`\r\n      * `src/css/.gitignore`\r\n      * `src/js/main.js`\r\n* [x] **Journal, Week 5**\r\n  * [x] draft of reflective journal\r\n  * [ ] draft of tutorial journal\r\n  * [x] draft of bookmark journal\r\n* [x] **Reading APIs**\r\n  * What are the endpoints for fetching...\r\n    * the profile data for a user?\r\n    * the organizations a user belongs to?\r\n    * the repositories a user has created?\r\n    * a filtered list of repositories?\r\n    * a sorted list of repositories?\r\n    * public events for a user?\r\n  * When fetching public events for a user...\r\n    * How many results are returned by default?\r\n    * What limitations exist on fetching _more_ results?\r\n    * What is the basic structure of the results?\r\n    * What fields are included in each result?\r\n    * What are the data types for each field?\r\n    * What are some of the different values for the `type` field?\r\n* [ ] **All your data is belong to us!**\r\n  * [ ] `feature/fetching-data`\r\n    * [ ] `octocat`\r\n      * [ ] got profile data\r\n      * [ ] got repo data\r\n      * [ ] got activity data\r\n    * [ ] `USERNAME`\r\n      * [ ] got profile data\r\n      * [ ] got repo data\r\n      * [ ] got activity data\r\n  * [ ] `feature/adding-placeholders`\r\n    * [ ] \"About\" column:\r\n      * [ ] avatar image\r\n      * [ ] name and login\r\n      * [ ] stats list\r\n    * [ ] \"Repositories\" column:\r\n      * [ ] Contributions\r\n      * [ ] Repositories\r\n      * [ ] Activity\r\n  * [ ] `feature/replacing-placeholders`\r\n    * [ ] `octocat`\r\n      * [ ] \"About\" column:\r\n        * [ ] avatar image\r\n        * [ ] name and login\r\n        * [ ] stats list\r\n      * [ ] \"Repositories\" column:\r\n        * [ ] Contributions\r\n        * [ ] Repositories\r\n        * [ ] Activity\r\n    * [ ] `USERNAME`\r\n      * [ ] \"About\" column:\r\n        * [ ] avatar image\r\n        * [ ] name and login\r\n        * [ ] stats list\r\n      * [ ] \"Repositories\" column:\r\n        * [ ] Contributions\r\n        * [ ] Repositories\r\n        * [ ] Activity"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/comments/110564426",
+        "html_url": "https://github.com/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260#issuecomment-110564426",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "id": 110564426,
+        "user": {
+          "login": "melrodbos",
+          "id": 12171924,
+          "avatar_url": "https://avatars.githubusercontent.com/u/12171924?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/melrodbos",
+          "html_url": "https://github.com/melrodbos",
+          "followers_url": "https://api.github.com/users/melrodbos/followers",
+          "following_url": "https://api.github.com/users/melrodbos/following{/other_user}",
+          "gists_url": "https://api.github.com/users/melrodbos/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/melrodbos/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/melrodbos/subscriptions",
+          "organizations_url": "https://api.github.com/users/melrodbos/orgs",
+          "repos_url": "https://api.github.com/users/melrodbos/repos",
+          "events_url": "https://api.github.com/users/melrodbos/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/melrodbos/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-06-10T02:38:25Z",
+        "updated_at": "2015-06-10T02:38:25Z",
+        "body": "melrodbos.github.io\r\n[Pull Request](https://github.com/melrodbos/melrodbos.github.io/pull/22)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-06-10T02:38:26Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2877942530",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690151885,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "60e58ba2ed81ff312f93df7cf034fa149f4bd222",
+      "before": "36aca6caf7b5889b36c8547b176befacb3a489e5",
+      "commits": [
+        {
+          "sha": "60e58ba2ed81ff312f93df7cf034fa149f4bd222",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Fixed merge conflict.",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/60e58ba2ed81ff312f93df7cf034fa149f4bd222"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T21:23:02Z"
+  },
+  {
+    "id": "2877882030",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690130128,
+      "size": 2,
+      "distinct_size": 2,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "36aca6caf7b5889b36c8547b176befacb3a489e5",
+      "before": "62ad0036077d1a944b6e824894ffe1e62e357e71",
+      "commits": [
+        {
+          "sha": "3f54d6e7882798069e04a3200c91bcd45a0754fb",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "adding devdependencies to package json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/3f54d6e7882798069e04a3200c91bcd45a0754fb"
+        },
+        {
+          "sha": "36aca6caf7b5889b36c8547b176befacb3a489e5",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "updating, moving, correcting syntax",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/36aca6caf7b5889b36c8547b176befacb3a489e5"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T21:04:35Z"
+  },
+  {
+    "id": "2877857566",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690121193,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "62ad0036077d1a944b6e824894ffe1e62e357e71",
+      "before": "b5d12cd940bc9ef5477f5e418bd39a3a80de7f68",
+      "commits": [
+        {
+          "sha": "62ad0036077d1a944b6e824894ffe1e62e357e71",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "removing whitespace",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/62ad0036077d1a944b6e824894ffe1e62e357e71"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:57:21Z"
+  },
+  {
+    "id": "2877855145",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690120294,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "b5d12cd940bc9ef5477f5e418bd39a3a80de7f68",
+      "before": "80ae4b620a2bba8f9813b35ed7a2359af2abf5da",
+      "commits": [
+        {
+          "sha": "b5d12cd940bc9ef5477f5e418bd39a3a80de7f68",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Update index.html",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/b5d12cd940bc9ef5477f5e418bd39a3a80de7f68"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:56:36Z"
+  },
+  {
+    "id": "2877822992",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690108421,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "80ae4b620a2bba8f9813b35ed7a2359af2abf5da",
+      "before": "2da0dc270d487496207e0ce7de8f4ed013e9e1c9",
+      "commits": [
+        {
+          "sha": "80ae4b620a2bba8f9813b35ed7a2359af2abf5da",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Create customs.scss",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/80ae4b620a2bba8f9813b35ed7a2359af2abf5da"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:46:52Z"
+  },
+  {
+    "id": "2877800507",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690100060,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "2da0dc270d487496207e0ce7de8f4ed013e9e1c9",
+      "before": "31f6115596b70e70e05d6a2efb2469dcf51c91d4",
+      "commits": [
+        {
+          "sha": "2da0dc270d487496207e0ce7de8f4ed013e9e1c9",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "copying from my main.scss file, searching for errors\"",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/2da0dc270d487496207e0ce7de8f4ed013e9e1c9"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:39:59Z"
+  },
+  {
+    "id": "2877773896",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690090271,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "31f6115596b70e70e05d6a2efb2469dcf51c91d4",
+      "before": "b88f80db7fd7406588565597d53c6f9a20a8416f",
+      "commits": [
+        {
+          "sha": "31f6115596b70e70e05d6a2efb2469dcf51c91d4",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Update .gitignore",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/31f6115596b70e70e05d6a2efb2469dcf51c91d4"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:32:02Z"
+  },
+  {
+    "id": "2877771383",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690089366,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "b88f80db7fd7406588565597d53c6f9a20a8416f",
+      "before": "9b339aea54925f68a2ddeb391eaaefd2c4abf9b0",
+      "commits": [
+        {
+          "sha": "b88f80db7fd7406588565597d53c6f9a20a8416f",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "adding normalize dependency",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/b88f80db7fd7406588565597d53c6f9a20a8416f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:31:15Z"
+  },
+  {
+    "id": "2877766118",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 690087482,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/fetching-data",
+      "head": "9b339aea54925f68a2ddeb391eaaefd2c4abf9b0",
+      "before": "4b5b5716f331f761fce09bed73a9e1f01de68fca",
+      "commits": [
+        {
+          "sha": "9b339aea54925f68a2ddeb391eaaefd2c4abf9b0",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Sassing package json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/9b339aea54925f68a2ddeb391eaaefd2c4abf9b0"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:29:45Z"
+  },
+  {
+    "id": "2877746862",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 35054328,
+      "name": "melrodbos/melrodbos.github.io",
+      "url": "https://api.github.com/repos/melrodbos/melrodbos.github.io"
+    },
+    "payload": {
+      "push_id": 690080563,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/journal-week-5",
+      "head": "f1e37378a304b9e6b83f2933d081ce757f36f0d5",
+      "before": "08d8ca184bcdefb7b643a0d07a5cd97c751464cd",
+      "commits": [
+        {
+          "sha": "f1e37378a304b9e6b83f2933d081ce757f36f0d5",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "Update reflective-journal-week-5.md",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/melrodbos.github.io/commits/f1e37378a304b9e6b83f2933d081ce757f36f0d5"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T20:23:56Z"
+  },
+  {
+    "id": "2877439475",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "ref": "feature/fetching-data",
+      "ref_type": "branch",
+      "master_branch": "master",
+      "description": "",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2015-06-09T18:49:31Z"
+  },
+  {
+    "id": "2877422497",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 34401403,
+      "name": "TheIronYard--Orlando/2015--SUMMER--FEE",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "id": 86694259,
+        "number": 260,
+        "title": "23 -- Return to the Planet of the APIs -- Melissa Rodriguez",
+        "user": {
+          "login": "melrodbos",
+          "id": 12171924,
+          "avatar_url": "https://avatars.githubusercontent.com/u/12171924?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/melrodbos",
+          "html_url": "https://github.com/melrodbos",
+          "followers_url": "https://api.github.com/users/melrodbos/followers",
+          "following_url": "https://api.github.com/users/melrodbos/following{/other_user}",
+          "gists_url": "https://api.github.com/users/melrodbos/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/melrodbos/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/melrodbos/subscriptions",
+          "organizations_url": "https://api.github.com/users/melrodbos/orgs",
+          "repos_url": "https://api.github.com/users/melrodbos/repos",
+          "events_url": "https://api.github.com/users/melrodbos/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/melrodbos/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2015-06-09T18:42:52Z",
+        "updated_at": "2015-06-09T18:44:32Z",
+        "closed_at": null,
+        "body": "* [ ] **Yak Shaving**\r\n  * _WIP Issue_: `23 -- Return to the Planet of the APIs -- YOUR NAME`\r\n    * Link to your PR in `USERNAME.github.io`\r\n    * Link to your PR in `TIY-Github` from `develop` into `master`\r\n  *  _WIP Branch_:\r\n    * `USERNAME.github.io:journal-week-5` from `master`\r\n    * `TIY-Github`\r\n      * `develop` from `master`\r\n      * `feature/*` from `develop`\r\n  * _WIP Files_:\r\n    * `USERNAME.github.io`\r\n      * reflective journal\r\n      * tutorial journal\r\n      * bookmark journal\r\n      * `about/github-api.md`\r\n    * `TIY-Github`\r\n      * `src/index.html`\r\n      * `src/scss/main.scss`\r\n      * `src/css/.gitignore`\r\n      * `src/js/main.js`\r\n* [ ] **Journal, Week 5**\r\n  * [ ] draft of reflective journal\r\n  * [ ] draft of tutorial journal\r\n  * [ ] draft of bookmark journal\r\n* [ ] **Reading APIs**\r\n  * What are the endpoints for fetching...\r\n    * the profile data for a user?\r\n    * the organizations a user belongs to?\r\n    * the repositories a user has created?\r\n    * a filtered list of repositories?\r\n    * a sorted list of repositories?\r\n    * public events for a user?\r\n  * When fetching public events for a user...\r\n    * How many results are returned by default?\r\n    * What limitations exist on fetching _more_ results?\r\n    * What is the basic structure of the results?\r\n    * What fields are included in each result?\r\n    * What are the data types for each field?\r\n    * What are some of the different values for the `type` field?\r\n* [ ] **All your data is belong to us!**\r\n  * [ ] `feature/fetching-data`\r\n    * [ ] `octocat`\r\n      * [ ] got profile data\r\n      * [ ] got repo data\r\n      * [ ] got activity data\r\n    * [ ] `USERNAME`\r\n      * [ ] got profile data\r\n      * [ ] got repo data\r\n      * [ ] got activity data\r\n  * [ ] `feature/adding-placeholders`\r\n    * [ ] \"About\" column:\r\n      * [ ] avatar image\r\n      * [ ] name and login\r\n      * [ ] stats list\r\n    * [ ] \"Repositories\" column:\r\n      * [ ] Contributions\r\n      * [ ] Repositories\r\n      * [ ] Activity\r\n  * [ ] `feature/replacing-placeholders`\r\n    * [ ] `octocat`\r\n      * [ ] \"About\" column:\r\n        * [ ] avatar image\r\n        * [ ] name and login\r\n        * [ ] stats list\r\n      * [ ] \"Repositories\" column:\r\n        * [ ] Contributions\r\n        * [ ] Repositories\r\n        * [ ] Activity\r\n    * [ ] `USERNAME`\r\n      * [ ] \"About\" column:\r\n        * [ ] avatar image\r\n        * [ ] name and login\r\n        * [ ] stats list\r\n      * [ ] \"Repositories\" column:\r\n        * [ ] Contributions\r\n        * [ ] Repositories\r\n        * [ ] Activity"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/comments/110461265",
+        "html_url": "https://github.com/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260#issuecomment-110461265",
+        "issue_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "id": 110461265,
+        "user": {
+          "login": "melrodbos",
+          "id": 12171924,
+          "avatar_url": "https://avatars.githubusercontent.com/u/12171924?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/melrodbos",
+          "html_url": "https://github.com/melrodbos",
+          "followers_url": "https://api.github.com/users/melrodbos/followers",
+          "following_url": "https://api.github.com/users/melrodbos/following{/other_user}",
+          "gists_url": "https://api.github.com/users/melrodbos/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/melrodbos/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/melrodbos/subscriptions",
+          "organizations_url": "https://api.github.com/users/melrodbos/orgs",
+          "repos_url": "https://api.github.com/users/melrodbos/repos",
+          "events_url": "https://api.github.com/users/melrodbos/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/melrodbos/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "created_at": "2015-06-09T18:44:32Z",
+        "updated_at": "2015-06-09T18:44:32Z",
+        "body": "TIY/Github\r\n[Pull Request](https://github.com/melrodbos/TIY-Github/pull/4)"
+      }
+    },
+    "public": true,
+    "created_at": "2015-06-09T18:44:32Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2877416990",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 34401403,
+      "name": "TheIronYard--Orlando/2015--SUMMER--FEE",
+      "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "labels_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/labels{/name}",
+        "comments_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/comments",
+        "events_url": "https://api.github.com/repos/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260/events",
+        "html_url": "https://github.com/TheIronYard--Orlando/2015--SUMMER--FEE/issues/260",
+        "id": 86694259,
+        "number": 260,
+        "title": "23 -- Return to the Planet of the APIs -- Melissa Rodriguez",
+        "user": {
+          "login": "melrodbos",
+          "id": 12171924,
+          "avatar_url": "https://avatars.githubusercontent.com/u/12171924?v=3",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/melrodbos",
+          "html_url": "https://github.com/melrodbos",
+          "followers_url": "https://api.github.com/users/melrodbos/followers",
+          "following_url": "https://api.github.com/users/melrodbos/following{/other_user}",
+          "gists_url": "https://api.github.com/users/melrodbos/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/melrodbos/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/melrodbos/subscriptions",
+          "organizations_url": "https://api.github.com/users/melrodbos/orgs",
+          "repos_url": "https://api.github.com/users/melrodbos/repos",
+          "events_url": "https://api.github.com/users/melrodbos/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/melrodbos/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [
+
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": null,
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2015-06-09T18:42:52Z",
+        "updated_at": "2015-06-09T18:42:52Z",
+        "closed_at": null,
+        "body": "* [ ] **Yak Shaving**\r\n  * _WIP Issue_: `23 -- Return to the Planet of the APIs -- YOUR NAME`\r\n    * Link to your PR in `USERNAME.github.io`\r\n    * Link to your PR in `TIY-Github` from `develop` into `master`\r\n  *  _WIP Branch_:\r\n    * `USERNAME.github.io:journal-week-5` from `master`\r\n    * `TIY-Github`\r\n      * `develop` from `master`\r\n      * `feature/*` from `develop`\r\n  * _WIP Files_:\r\n    * `USERNAME.github.io`\r\n      * reflective journal\r\n      * tutorial journal\r\n      * bookmark journal\r\n      * `about/github-api.md`\r\n    * `TIY-Github`\r\n      * `src/index.html`\r\n      * `src/scss/main.scss`\r\n      * `src/css/.gitignore`\r\n      * `src/js/main.js`\r\n* [ ] **Journal, Week 5**\r\n  * [ ] draft of reflective journal\r\n  * [ ] draft of tutorial journal\r\n  * [ ] draft of bookmark journal\r\n* [ ] **Reading APIs**\r\n  * What are the endpoints for fetching...\r\n    * the profile data for a user?\r\n    * the organizations a user belongs to?\r\n    * the repositories a user has created?\r\n    * a filtered list of repositories?\r\n    * a sorted list of repositories?\r\n    * public events for a user?\r\n  * When fetching public events for a user...\r\n    * How many results are returned by default?\r\n    * What limitations exist on fetching _more_ results?\r\n    * What is the basic structure of the results?\r\n    * What fields are included in each result?\r\n    * What are the data types for each field?\r\n    * What are some of the different values for the `type` field?\r\n* [ ] **All your data is belong to us!**\r\n  * [ ] `feature/fetching-data`\r\n    * [ ] `octocat`\r\n      * [ ] got profile data\r\n      * [ ] got repo data\r\n      * [ ] got activity data\r\n    * [ ] `USERNAME`\r\n      * [ ] got profile data\r\n      * [ ] got repo data\r\n      * [ ] got activity data\r\n  * [ ] `feature/adding-placeholders`\r\n    * [ ] \"About\" column:\r\n      * [ ] avatar image\r\n      * [ ] name and login\r\n      * [ ] stats list\r\n    * [ ] \"Repositories\" column:\r\n      * [ ] Contributions\r\n      * [ ] Repositories\r\n      * [ ] Activity\r\n  * [ ] `feature/replacing-placeholders`\r\n    * [ ] `octocat`\r\n      * [ ] \"About\" column:\r\n        * [ ] avatar image\r\n        * [ ] name and login\r\n        * [ ] stats list\r\n      * [ ] \"Repositories\" column:\r\n        * [ ] Contributions\r\n        * [ ] Repositories\r\n        * [ ] Activity\r\n    * [ ] `USERNAME`\r\n      * [ ] \"About\" column:\r\n        * [ ] avatar image\r\n        * [ ] name and login\r\n        * [ ] stats list\r\n      * [ ] \"Repositories\" column:\r\n        * [ ] Contributions\r\n        * [ ] Repositories\r\n        * [ ] Activity"
+      }
+    },
+    "public": true,
+    "created_at": "2015-06-09T18:42:52Z",
+    "org": {
+      "id": 8798300,
+      "login": "TheIronYard--Orlando",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/TheIronYard--Orlando",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8798300?"
+    }
+  },
+  {
+    "id": "2876506033",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 689630225,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/sass-refactor",
+      "head": "8973b59679c49b39fda3a58b98d72f6256bc8e53",
+      "before": "5065e43b4087b145695fcf63e321d77cdd9dd14f",
+      "commits": [
+        {
+          "sha": "8973b59679c49b39fda3a58b98d72f6256bc8e53",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "modified gitignore file and package.json",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/8973b59679c49b39fda3a58b98d72f6256bc8e53"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T14:26:02Z"
+  },
+  {
+    "id": "2876179628",
+    "type": "PushEvent",
+    "actor": {
+      "id": 12171924,
+      "login": "melrodbos",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/melrodbos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12171924?"
+    },
+    "repo": {
+      "id": 36683717,
+      "name": "melrodbos/TIY-Github",
+      "url": "https://api.github.com/repos/melrodbos/TIY-Github"
+    },
+    "payload": {
+      "push_id": 689509457,
+      "size": 1,
+      "distinct_size": 1,
+      "ref": "refs/heads/feature/sass-refactor",
+      "head": "5065e43b4087b145695fcf63e321d77cdd9dd14f",
+      "before": "18bf0d425f7eaf96150f5d2d9a08550adc12d7fe",
+      "commits": [
+        {
+          "sha": "5065e43b4087b145695fcf63e321d77cdd9dd14f",
+          "author": {
+            "email": "m.rodriguez.bosques@gmail.com",
+            "name": "Melissa Rodríguez"
+          },
+          "message": "adding devDependencies",
+          "distinct": true,
+          "url": "https://api.github.com/repos/melrodbos/TIY-Github/commits/5065e43b4087b145695fcf63e321d77cdd9dd14f"
+        }
+      ]
+    },
+    "public": true,
+    "created_at": "2015-06-09T12:53:22Z"
+  }
+]
