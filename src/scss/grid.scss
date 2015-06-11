@@ -7,31 +7,32 @@
     width: ($grid-width);
     margin: 0 auto;/* to center the elements */
 
-    background-color: lightgrey;
-    outline: 2px solid red;
+    /* background-color: lightgrey;
+    outline: 2px solid cyan; */
 
-    .unit-span-1 {
-        background-color: gray;
-        outline: 2px solid blue;
+    .unit {
+      /*   background-color: turquoise;
+      outline: 2px solid blue; */
 
         float: left;
-        width: ($grid-width/8) * 1;
+        width: ($grid-width/5);
 
-        padding-left: 2em;
+        padding-left: .5em;
+        padding-right: .5em;
         box-sizing: border-box;
-        &:first-child {
-            padding-left: 0;
+    /*     &:first-child {
+        padding-left: 0; */
         }
+
+    .unit_span_2 {
+        @extend .unit;
+        width: ($grid-width/5) * 2;
     }
-    .unit-span-2 {
-        @extend .unit-span-1;
-        width: ($grid-width/8) * 2;
+    .unit_span_3 {
+        @extend .unit;
+        width: ($grid-width/5) * 3;
     }
-    .unit-span-4 {
-        @extend .unit-span-1;
-        width: ($grid-width/8) * 4;
-    }
-    .offset-2 {
-        margin-left: ($grid-width/8) * 2;
-    }
+    /* .offset-2 {
+        margin-left: ($grid-width/5) * 2;
+    } */
 }
