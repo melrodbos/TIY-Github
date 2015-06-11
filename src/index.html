@@ -1,26 +1,28 @@
 <!doctype html>
 <html class="no-js" lang="">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.4.1/octicons.css">
-        <link rel="stylesheet" href="css/main.css">
-        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    </head>
-    <body>
-        <!--[if lt IE 8]>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.4.1/octicons.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+
+<body>
+    <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
-        <!-- Add your site or application content here -->
+    <!-- Add your site or application content here -->
 
 
-      <main>
-  <!--       <section class="grid">
+    <main>
+        <!--       <section class="grid">
     <div class="unit">1</div>
     <div class="unit">2</div>
     <div class="unit">3</div>
@@ -36,77 +38,103 @@
     <div class="unit-span-2">2 col</div>
   </section> -->
 
-  <!-- Tabs -->
+        <!-- Tabs -->
         <nav class="tabs">
-          <a class="active" href="https://github.com/octocat">About</a>
-          <a href="https://github.com/octocat?tab=repositories">Repositories</a>
-        </nav> <!-- End of Tabs -->
-      <!-- Profile Section -->
+            <a class="active" href="https://github.com/octocat">About</a>
+            <a href="https://github.com/octocat?tab=repositories">Repositories</a>
+        </nav>
+        <!-- End of Tabs -->
+        <!-- Profile Section -->
         <div class="profile_container">
-          <div class="profile_elements">
-            <img src="https://avatars3.githubusercontent.com/u/583231?v=3&s=400" alt="" class="profile_avatar" width="110" height="110">
-          </div>
-          <div class="profile_elements">
-            <h1 id="name">{{name}}</h1>
-            <h3 id="login">{{login}}</h3>
-            <ul class="profile_item">
-              <li id="organization"><span class="octicon octicon-organization"></span>{{organization}}</li>
-              <li id="location"><span class="octicon octicon-location"></span>{{location}}</li>
-              <li id="email"><span class="octicon octicon-mail"></span><a href="mailto:octicon@github.com"></a>{{email}}</li>
-              <li id="blog"class="profile_item"><span class="octicon octicon-link"></span><a href="http://www.github.com/blog">http://github.com/blog</a>{{blog}}</li>
-            </ul>
-          </div>
-        </div><!-- End of profile -->
+            <div class="profile_elements">
+                <img src="" id="avatar" class="profile_avatar" width="110" height="110">
+            </div>
+            <div class="profile_elements">
+                <h1 id="name">{{name}}</h1>
+                <h3 id="login">{{login}}</h3>
+                <ul class="profile_item">
+                    <li id="organization">
+                        <span class="octicon octicon-organization"></span>{{organization}}</li>
+                    <li id="location">
+                        <span class="octicon octicon-location"></span>{{location}}</li>
+                    <li id="email">
+                        <span class="octicon octicon-mail"></span>
+                        <a href="mailto:octicon@github.com"></a>{{email}}</li>
+                    <li id="blog" class="profile_item">
+                        <span class="octicon octicon-link"></span><a href="http://www.github.com/blog">http://github.com/blog</a>{{blog}}</li>
+                </ul>
+            </div>
+        </div>
+        <!-- End of profile -->
         <!-- Follow Section -->
         <section class="follow_stats">
-          <a href="#" class="btn green"><span class="octicon octicon-person"></span>Follow</a>
-          <div class="user_stats">
-            <div class="user_stat"><strong>1k</strong>Followers</div>
-            <div class="user_stat"><strong>2</strong>Starred</div>
-            <div class="user_stat"><strong>6</strong>Following</div>
-          </div>
-        </section><!-- End Follow Section -->
+            <a href="#" class="btn green">
+                <span class="octicon octicon-person"></span>Follow</a>
+            <div class="user_stats">
+                <div class="user_stat">
+                    <strong>1k</strong>Followers</div>
+                <div class="user_stat">
+                    <strong>2</strong>Starred</div>
+                <div class="user_stat">
+                    <strong>6</strong>Following</div>
+            </div>
+        </section>
+        <!-- End Follow Section -->
         <!-- Popular Repos Section -->
         <section class="popular_repos">
-          <h3 class="popular_title"></h3>
-          <div class="popular_list">
-            <a href="#" class="popular_list_item">
-              <span class="octicon octicon-repo"></span>
-              <strong class="star_count">9,772<span class="octicon octicon-star">
-  </span></strong>
-              <div class="repo_name">octocat/Spoon-Knife</div>
-            </a>
-            <a href="#" class="popular_list_item">
-              <span class="octicon octicon-repo"></span>
-              <strong class="star_count">1,404<span class="octicon octicon-star">
-  </span></strong>
-              <div class="repo_name">octocat/Hello-World</div>
-            </a>
-            <a href="#" class="popular_list_item">
-              <span class="octicon octicon-repo"></span>
-              <strong class="star_count">10<span class="octicon octicon-star">
-  </span></strong>
-              <div class="repo_name">octocat/hello-World</div>
-            </a>
-            <a href="#" class="popular_list_item">
-              <span class="octicon octicon-repo"></span>
-              <strong class="star_count">8<span class="octicon octicon-star">
-  </span></strong>
-              <div class="repo_name">octocat/octocat.github.io</div>
-            </a>
-            <a href="#" class="popular_list_item">
-              <span class="octicon octicon-repo"></span>
-              <strong class="star_count">5<span class="octicon octicon-star">
-  </span></strong>
-              <div class="repo_name">octocat/git-consortium</div>
-            </a>
-          </div>
-        </section><!-- End Popular Repos Section -->
-      </main>
+            <h3 class="popular_title"></h3>
+            <div class="popular_list">
+                <a href="#" class="popular_list_item">
+                    <span class="octicon octicon-repo"></span>
+                    <strong class="star_count">9,772
+                        <span class="octicon octicon-star">
+                        </span>
+                    </strong>
+                    <div class="repo_name">octocat/Spoon-Knife</div>
+                </a>
+                <a href="#" class="popular_list_item">
+                    <span class="octicon octicon-repo"></span>
+                    <strong class="star_count">1,404
+                        <span class="octicon octicon-star">
+                        </span>
+                    </strong>
+                    <div class="repo_name">octocat/Hello-World</div>
+                </a>
+                <a href="#" class="popular_list_item">
+                    <span class="octicon octicon-repo"></span>
+                    <strong class="star_count">10
+                        <span class="octicon octicon-star">
+                        </span>
+                    </strong>
+                    <div class="repo_name">octocat/hello-World</div>
+                </a>
+                <a href="#" class="popular_list_item">
+                    <span class="octicon octicon-repo"></span>
+                    <strong class="star_count">8
+                        <span class="octicon octicon-star">
+                        </span>
+                    </strong>
+                    <div class="repo_name">octocat/octocat.github.io</div>
+                </a>
+                <a href="#" class="popular_list_item">
+                    <span class="octicon octicon-repo"></span>
+                    <strong class="star_count">5
+                        <span class="octicon octicon-star">
+                        </span>
+                    </strong>
+                    <div class="repo_name">octocat/git-consortium</div>
+                </a>
+            </div>
+        </section>
+        <!-- End Popular Repos Section -->
+    </main>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
-    </body>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')
+    </script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
 </html>
