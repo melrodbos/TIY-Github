@@ -18,25 +18,25 @@
 
         <!-- Add your site or application content here -->
 
-        <!-- Tabs -->
+
       <main>
-        <section class="grid">
-          <div class="unit">1</div>
-          <div class="unit">2</div>
-          <div class="unit">3</div>
-          <div class="unit">4</div>
-          <div class="unit">5</div>
-          <div class="unit">6</div>
-          <div class="unit">7</div>
-          <div class="unit">8</div>
-        </section>
-        <section class="grid">
-          <div class="unit-span-2">2 col</div>
-          <div class="unit-span-2">4 col</div>
-          <div class="unit-span-2">2 col</div>
-        </section>
+  <!--       <section class="grid">
+    <div class="unit">1</div>
+    <div class="unit">2</div>
+    <div class="unit">3</div>
+    <div class="unit">4</div>
+    <div class="unit">5</div>
+    <div class="unit">6</div>
+    <div class="unit">7</div>
+    <div class="unit">8</div>
+  </section>
+  <section class="grid">
+    <div class="unit-span-2">2 col</div>
+    <div class="unit-span-2">4 col</div>
+    <div class="unit-span-2">2 col</div>
+  </section> -->
 
-
+  <!-- Tabs -->
         <nav class="tabs">
           <a class="active" href="https://github.com/octocat">About</a>
           <a href="https://github.com/octocat?tab=repositories">Repositories</a>
@@ -47,13 +47,13 @@
             <img src="https://avatars3.githubusercontent.com/u/583231?v=3&s=400" alt="" class="profile_avatar" width="110" height="110">
           </div>
           <div class="profile_elements">
-            <h1>The Octocat</h1>
-            <h3>octocat</h3>
+            <h1 id="name">{{name}}</h1>
+            <h3 id="login">{{login}}</h3>
             <ul class="profile_item">
-              <li><span class="octicon octicon-organization"></span>   GitHub</li>
-              <li><span class="octicon octicon-location"></span> San Francisco</li>
-              <li><span class="octicon octicon-mail"></span><a href="mailto:octicon@github.com"> octicon@github.com</a></li>
-              <li class="profile_item"><span class="octicon octicon-link"></span><a href="http://www.github.com/blog"> http://github.com/blog</a></li>
+              <li id="organization"><span class="octicon octicon-organization"></span>{{organization}}</li>
+              <li id="location"><span class="octicon octicon-location"></span>{{location}}</li>
+              <li id="email"><span class="octicon octicon-mail"></span><a href="mailto:octicon@github.com"></a>{{email}}</li>
+              <li id="blog"class="profile_item"><span class="octicon octicon-link"></span><a href="http://www.github.com/blog">http://github.com/blog</a>{{blog}}</li>
             </ul>
           </div>
         </div><!-- End of profile -->
